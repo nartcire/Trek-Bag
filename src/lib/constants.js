@@ -15,10 +15,3 @@ export const initialItems = [
     packed: false,
   },
 ];
-
-export const labels = [
-  "Mark all as complete",
-  "Mark all as incomplete",
-  "Reset to initial",
-  "Remove all items",
-];
