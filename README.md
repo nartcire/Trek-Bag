@@ -1,4 +1,4 @@
-# Trekbag
+# Trekbag Project
 
 <img width="1919" alt="Screenshot 2025-03-20 at 7 34 49 PM" src="https://github.com/user-attachments/assets/58657cc8-716b-4aa2-ad8a-e5882dc19742" />
 
